@@ -1,4 +1,4 @@
-# terraform_ec2_creation
+# EC2 creation using Terraform
 Creating public and private instance of AWS service by using terraform
 
 * Clone repository
